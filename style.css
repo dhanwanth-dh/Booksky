@@ -102,18 +102,3 @@ body{
     color: black;
 }
 
-.popup-box button{
-    background-color: black;
-    padding: 20px;
-    border: none;
-    color: white;
-    margin: 5px;
-    border-radius: 10px;
-}
-
-.popup-box input:focus{
-    outline: none;
-}
-.popup-box textarea:focus{
-    outline: none;
-}
