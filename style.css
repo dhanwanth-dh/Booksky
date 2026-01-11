@@ -98,7 +98,5 @@ body{
 .popup-box input::placeholder{
     color: black;
 }
-.popup-box textarea::placeholder{
-    color: black;
-}
+
 
